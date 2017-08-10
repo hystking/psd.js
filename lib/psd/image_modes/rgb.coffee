@@ -27,3 +27,5 @@ module.exports =
           when 2 then  b = val
 
       @pixelData.push r, g, b, a
+
+    return null
